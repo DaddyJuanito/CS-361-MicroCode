@@ -37,4 +37,5 @@ GET http://localhost:3000/books?book_type=nonfiction&reading_level=intermediate&
   
   Again, you need to use a semi-colon to seperate each category.
   
+![diagram](https://user-images.githubusercontent.com/72411904/236992830-1d300bd4-67ee-4853-bad3-6ca169279f61.png)
 
