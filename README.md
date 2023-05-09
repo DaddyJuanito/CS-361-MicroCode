@@ -1,4 +1,4 @@
-# CS-361-MicroCode
+# CS-361-MicroCode - COMMUNICATION CONTRACT
 
 _____________________
 ### Make sure to run 'npm install' and 'npm start' before requesting information.
